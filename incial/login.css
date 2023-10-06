@@ -1,0 +1,36 @@
+body{
+background-color: rgb(155, 194, 124);
+
+}
+
+div{
+    background: rgba( 0, 0, 0, 0.6 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 16px );
+    -webkit-backdrop-filter: blur( 16px );
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+    margin-top: 150px;
+    margin-left: 500px;
+    margin-right: 500px;
+    height: 400px;
+    padding-top: 140px;
+    font-size: 30px;
+
+}
+
+
+button{
+margin-left: 300px;
+font-size: 30px;
+margin-top: 30px;
+background-color: rgb(87, 87, 168);
+color: white;
+
+
+}
+input{
+    margin-left: 230px;
+    font-size: 20px;
+    background-color: rgb(247, 231, 211);
+}
